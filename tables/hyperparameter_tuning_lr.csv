@@ -1,0 +1,11 @@
+Regularisation,Variance,Epochs,Converged,F1,AUC-ROC,Cohens_Kappa,Accuracy,Selected
+Uniform (none),0.1,100,No,,,,,
+Gauss (L2),0.1,100,No,,,,,
+Laplace (L1),0.1,100,No,,,,,
+Gauss (L2),0.1,500,Yes,0.83,0.92,0.71,0.86,Yes
+Gauss (L2),0.5,500,No,,,,,
+Gauss (L2),1.0,500,No,,,,,
+Gauss (L2),5.0,500,No,,,,,
+Gauss (L2),10.0,500,No,,,,,
+Laplace (L1),0.1,500,No,,,,,
+Uniform (none),0.1,500,No,,,,,

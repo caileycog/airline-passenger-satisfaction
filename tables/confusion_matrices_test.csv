@@ -1,0 +1,5 @@
+Model,Actual,Predicted: Neutral or Dissatisfied,Predicted: Satisfied
+Logistic Regression,Neutral or Dissatisfied,514,72
+Logistic Regression,Satisfied,92,362
+Gradient Boosted Trees,Neutral or Dissatisfied,550,36
+Gradient Boosted Trees,Satisfied,64,390
