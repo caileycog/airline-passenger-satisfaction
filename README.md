@@ -7,7 +7,7 @@
 ![Models](https://img.shields.io/badge/models-Logistic%20Regression%20%7C%20Gradient%20Boosted%20Trees-orange)
 ![Validation](https://img.shields.io/badge/validation-5--fold%20CV%20%2B%20held--out%20test-green)
 
-MSc Data Science, University of Sheffield (2026) · Module: Data Mining and AI · Author: **Cailey Coghlan**
+MSc Data Science, University of Sheffield (2026) · Module: Data Mining and AI · **Awarded 84% (Distinction)** · Author: **Cailey Coghlan**
 
 📄 [Read the full report (PDF)](docs/report.pdf)
 
