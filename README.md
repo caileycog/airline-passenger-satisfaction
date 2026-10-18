@@ -225,3 +225,6 @@ The dataset (`AirlineSatisfactionData.csv`, 5,196 records) was provided by the m
 [LinkedIn](https://www.linkedin.com/in/cailey-coghlan-10a8a8173/) · [Email](mailto:caileycog@outlook.com)
 
 See also: [Psoriasis Biomarker Discovery with Interpretable Machine Learning](https://github.com/caileycog/psoriasis-biomarker-discovery)
+- [Who Voted Leave?](https://github.com/caileycog/eu-referendum-voting-demographics): SPSS, chi-square tests, logistic regression
+- [Does Metadata Make a Hit?](https://github.com/caileycog/song-popularity-metadata-visualisation): R, ggplot2, accessible data visualisation
+- [Big Data Analysis of ICLR Submissions](https://github.com/caileycog/iclr-submissions-big-data-analysis): PySpark, Databricks, Spark MLlib
