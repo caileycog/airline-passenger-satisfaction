@@ -222,7 +222,7 @@ The dataset (`AirlineSatisfactionData.csv`, 5,196 records) was provided by the m
 ## Contact
 
 **Cailey Coghlan**, MSc Data Science, University of Sheffield
-[LinkedIn](https://www.linkedin.com/in/cailey-coghlan-10a8a8173/) · [Email](mailto:caileycog@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/caileycoghlan/) · [Email](mailto:caileycog@outlook.com)
 
 See also: 
 - [Psoriasis Biomarker Discovery with Interpretable Machine Learning](https://github.com/caileycog/psoriasis-biomarker-discovery)
